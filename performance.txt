@@ -1,0 +1,7 @@
+# 3L ANN EMNIST Letters Classifier NOTES:
+- Batch Gradient Descent
+    - Lambda = 1.5
+	- Feature Scaling Only (1500 iters)
+		- 4030.25 secs
+	- Feature Scaling w Mean Normalization (1500 iters)
+		- 3646.48 seconds
