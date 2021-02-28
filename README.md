@@ -5,13 +5,13 @@ Data Preprocessing:
 Feature Scaling and Mean Normalization
 
 Architecture and Hyperparameters:
-1 Hidden Layer
-25 Nodes in Hidden Layer
-26 Units in Output Layer
-Activation Function: Sigmoid Function
-Alpha = 1.8 (non-decaying)
-Lambda = 1
-Epochs = 20,000
+1 Hidden Layer,
+25 Nodes in Hidden Layer,
+26 Units in Output Layer,
+Activation Function: Sigmoid Function,
+Alpha = 1.8 (non-decaying),
+Lambda = 1,
+Epochs = 20,000,
 
 Optimization Algorithm:
 Gradient Descent (Batch)
