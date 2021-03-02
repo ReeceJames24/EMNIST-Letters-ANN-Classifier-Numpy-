@@ -1,4 +1,4 @@
-# EMNIST-Letters-ANN-Classifier-Numpy-
+# EMNIST-Letters-ANN-Classifier-Numpy-and-Keras
 This model makes use of a 3-layered Feedforward Artificial Neural Network to classify handwritten letters from the EMNIST dataset. Data labels are in numeric form where the 26 letters are mapped to numbers 1 up to 26 ("a" = 1, "b" = 2,.....,"z" = 26). The entire model is built purely on Numpy without the use of any external machine learning libraries/frameworks.
 
 Data Preprocessing:
